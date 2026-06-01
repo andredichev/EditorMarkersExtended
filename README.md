@@ -22,5 +22,6 @@ Create a `EditorMarkersExtended.csproj.user` file next to the `.csproj` and poin
 </Project>
 ```
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Legal
+This project is licensed under the MIT License, see the [LICENSE](LICENSE) file for details.
+Developed with AI assistance.
